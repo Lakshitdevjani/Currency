@@ -21,7 +21,7 @@ Ensure you have the following installed:
 ### Steps to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/Lakshitdevjani/Currency.git
    cd currency-converter
    ```
 2. Install dependencies:
